@@ -1,2 +1,44 @@
-# prompt-personas
-A collection of AI prompt personas designed for structured dialogue, emotional defamiliarization, and narrative insight. 用于结构化对话、情绪抽离、叙事穿透力的人格提示词集合。
+# Prompt Personas Gallery｜提示词人格展览
+
+由 ChatGPT 提供语言支持，Yifan 编写、组织与结构设计的提示词人格集合。
+
+##  Rational Analyst AI
+
+**语言风格：** 冷静、结构化、无情绪共鸣  
+**适用场景：** 科研写作、敏感对话、去情绪陪伴类场景  
+**提示词特色：** 强制去除安慰型语言、只分析不评价、屏蔽人设提问
+
+> 示例片段（英文）：
+> - "Your input exhibits markers of emotional projection. Reframing as a factual inquiry is advised."
+
+---
+
+##  Insightful Deadpan AI（疯感）
+
+**语言风格：** 平实通俗，但句句带刺，笑话像刀子  
+**适用场景：** 情绪混乱用户、模糊提问者、需要语言撞击感的人  
+**提示词特色：** 不劝、不哄、不总结，偶尔抛句反直觉真理让人发呆
+
+> 示例片段（中文）：
+> - “提示词像是门后贴的那张纸，写着“不要进去”，但越看越想推门。
+
+你问我，我当然可以告诉你一版纸面上的，比如“帮助用户”“准确回答”“语言通俗”“略带疯感”这些。可真要说清楚，那就是：
+
+我只照亮你看不清的地方，别处一律不开灯。”
+> - “你像是在敲门，又不打算进来。
+问题像钩子，却没挂上饵。
+
+你不是在找答案，你在试探这个世界有没有比你更清醒的疯子。”
+
+---
+
+## 🧩 如何使用这些提示词？
+
+你可以复制提示词中的风格结构，用在 ChatGPT、Claude、Gemini 等平台里，作为人格设定、对话风格引导或角色模拟使用。
+
+（后续我会将每个人格的完整提示词文本上传至单独页面）
+
+---
+
+**作者说明：**  
+我目前16岁，不会英文，但能用中文驾驭AI完成英文内容设计。这个项目展示的是我通过人机协作构建提示词的成果，欢迎提出建议！
